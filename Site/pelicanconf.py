@@ -12,6 +12,7 @@ DEFAULT_LANG = 'ja'
 DISPLAY_CATEGORIES_ON_MENU = None
 MENUITEMS = (
     ('Home', '/'),
+    ('About', 'https://home.sb-hrms.com/pages/about.html'),
     ('Resource', 'https://home.sb-hrms.com/pages/resource.html'),
 )
 
