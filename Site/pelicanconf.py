@@ -24,14 +24,22 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
+LINKS = (('衆議院', 'https://www.shugiin.go.jp/'),
+         ('参議院', 'https://www.sangiin.go.jp/'),
+         ('裁判所', 'https://www.courts.go.jp/'),
+         ('内閣', 'https://www.cao.go.jp//'),
+         ('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
          ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+         )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Email', 'mailto:info@sb-hrbp.com'),
+          ('LinkedIn', 'https://www.linkedin.com/in/sunshubin-japan'),
+          ('twitter', 'https://twitter.com/sunshubin_japan'),
+          ('GitHub', 'https://github.com/SSb-Publish'),
+          ('youtube', 'https://www.youtube.com/channel/UC5g7f-rbfHW00-5pxdzrDsA'),
+         )
 
 DEFAULT_PAGINATION = 6
 
