@@ -1,5 +1,5 @@
 AUTHOR = 'SBTech'
-SITENAME = 'Human Rights and Constitution'
+SITENAME = 'Parliament'
 SITEURL = ''
 
 PATH = 'content'
