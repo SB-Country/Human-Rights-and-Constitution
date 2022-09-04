@@ -14,6 +14,7 @@ MENUITEMS = (
     ('Home', '/'),
     ('About', 'https://home.sb-hrms.com/pages/about.html'),
     ('Resource', 'https://home.sb-hrms.com/pages/resource.html'),
+    ('Reference', 'https://github.com/SB-Country/Parliament/tree/main/Site/content/posts'),
 )
 
 # Feed generation is usually not desired when developing
